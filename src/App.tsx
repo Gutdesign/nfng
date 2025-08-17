@@ -13,3 +13,5 @@
 +import { ProfileScreen } from './components/ProfileScreen';
  
  type Screen = 'coach' | 'calendar' | 'stats' | 'profile';
+
+export default ProfileScreen
